@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<: [![monkeytype.badge]][monkeytype.badge-link] [monkeytype.badge]: https://img.shields.io/badge/-Monkeytype-black!--
 **prash4549/prash4549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

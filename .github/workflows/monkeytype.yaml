@@ -14,4 +14,3 @@ jobs:
           monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
           mode: "time"
           mode2: "30"
-    

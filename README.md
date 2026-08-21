@@ -1,4 +1,3 @@
-[![monkeytype.badge]][monkeytype.badge-link]
+[![monkeytype.badge]](https://monkeytype.com/)
 
-[monkeytype.badge]: https://img.shields.io/badge/-Monkeytype-black
-[monkeytype.badge-link]: https://monkeytype.com/profile/prash4549
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
